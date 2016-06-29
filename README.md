@@ -1,4 +1,3 @@
-# mark
 # CS Make - Sake
 
 Welcome to Sake, a C# language enabled make system.
